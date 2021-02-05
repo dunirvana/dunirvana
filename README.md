@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Elixir - Tipos e operações básicas](http://programero.blogspot.com/2021/02/elixir-tipos-e-operacoes-basicas.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
