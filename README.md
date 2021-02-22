@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Consulta para ver o conteúdo de um pacote (Oracle)](http://programero.blogspot.com/2017/11/consulta-para-ver-o-conteudo-de-um.html)
+- [React - Listas e chaves](http://programero.blogspot.com/2019/11/react-listas-e-chaves.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
