@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [React - Listas e chaves](http://programero.blogspot.com/2019/11/react-listas-e-chaves.html)
+- [Scrum - Tempo](http://programero.blogspot.com/2021/02/scrum-tempo.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
