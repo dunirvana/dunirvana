@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Scrum - Tempo](http://programero.blogspot.com/2021/02/scrum-tempo.html)
+- [React - Elevando o state (state lift)](http://programero.blogspot.com/2020/04/react-elevando-o-state-state-lift.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
