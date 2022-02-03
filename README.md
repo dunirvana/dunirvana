@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Teixeira</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I'm currently studying (again) **Design Patterns**
+- 🌱 I'm currently studying **Clojure**
 
 - 📝 I regularly write articles on [http://programero.blogspot.com/](http://programero.blogspot.com/)
 
