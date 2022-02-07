@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [React - Elevando o state (state lift)](http://programero.blogspot.com/2020/04/react-elevando-o-state-state-lift.html)
+- [Clojure - Funções, vetores e def](https://programero.blogspot.com/2022/02/clojure-funcoes-vetores-e-def.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
