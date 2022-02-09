@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Clojure - Funções, vetores e def](https://programero.blogspot.com/2022/02/clojure-funcoes-vetores-e-def.html)
+- [Clojure - Criando nossa primeira função](https://programero.blogspot.com/2022/02/clojure-criando-nossa-primeira-funcao.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
