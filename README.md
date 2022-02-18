@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Clojure - Criando nossa primeira função](https://programero.blogspot.com/2022/02/clojure-criando-nossa-primeira-funcao.html)
+- [Clojure - Símbolos globais e locais](https://programero.blogspot.com/2022/02/clojure-simbolos-globais-e-locais.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
