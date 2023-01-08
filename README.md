@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Teixeira</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I'm currently studying **Ruby**
+- 🌱 I'm currently studying **PHP**
 
 - 📝 I regularly write articles on [http://programero.blogspot.com/](http://programero.blogspot.com/)
 
@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Clojure - Símbolos globais e locais](https://programero.blogspot.com/2022/02/clojure-simbolos-globais-e-locais.html)
+- [Hangfire - processamento em background fácil no .NET](https://programero.blogspot.com/2022/10/hangfire-processamento-em-background.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
