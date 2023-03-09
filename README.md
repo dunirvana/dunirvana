@@ -10,8 +10,8 @@
 - 📫 How to reach me **dunirvana@gmail.com**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
-- [Hangfire - processamento em background fácil no .NET](https://programero.blogspot.com/2022/10/hangfire-processamento-em-background.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
