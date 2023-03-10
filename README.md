@@ -11,8 +11,9 @@
 
 ### Blogs posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a href='https://cool-web-scrap.vercel.app/programero-last-post-url'>
+  <img src='https://cool-web-scrap.vercel.app/programero-last-post-image' />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
